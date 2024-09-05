@@ -1,0 +1,1 @@
+A time series forecast of the sentiment of the tweet dataset (containing 1,600,000 tweets extracted using the twitter api ) at 1 week, 1 month and 3 months going forward. Due to the data missing rows on some days, data was imputed to approximate the sentiments. Autoregression MultiSeries and LSTM models were employed to accomplish the tasks.
